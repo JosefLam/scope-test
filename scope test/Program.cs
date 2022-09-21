@@ -30,6 +30,7 @@ namespace scope_test
                     break;
                 default:
                     Console.WriteLine("how do?");
+                    break;
             }
         }
     }
